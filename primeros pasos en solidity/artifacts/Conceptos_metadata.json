@@ -1,0 +1,50 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"primeros pasos en solidity/conceptos.sol": "Conceptos"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"primeros pasos en solidity/conceptos.sol": {
+			"keccak256": "0x38deb2051ca09337dbd8d21407a5928850267798b8787b05ccc7b9151090427c",
+			"urls": [
+				"bzz-raw://954f94160f8fb1d83d4782d9db116fa0375506c66b01bdc28a73f1a7d3a4a56c",
+				"dweb:/ipfs/QmNb629o57w34rTkH7HLwDM9DXUHfCE2GV26ygtpNH1gie"
+			]
+		}
+	},
+	"version": 1
+}
